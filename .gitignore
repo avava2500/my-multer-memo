@@ -1,0 +1,7 @@
+# パッケージ
+node_modules/
+
+# src コードコンパイル後のディレクトリ
+dist/
+# multer でアップロードした画像を保存するディレクトリ
+uploads/*
